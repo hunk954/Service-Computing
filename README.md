@@ -1,3 +1,6 @@
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hunk954/Service-Computing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
