@@ -1,40 +1,32 @@
+# 【17308154 王俊焕】服务计算作业索引页
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+<span id="busuanzi_container_page_pv">本文总阅读量 : <span id="busuanzi_value_page_pv"></span></span>
 
-## Welcome to GitHub Pages
+## 课后阅读与作业
+1. [01-安装配置你的私有云](hw01)
+2. [02-阅读：服务面向的架构 ](hw02)
+3. [03-安装Golang开发环境](hw03)
+4. [04-开发简单CLI程序(两周完成)](hw04)
+5. [05-开发简单CLI程序(两周完成)](hw04)
+6. [06-阅读：Interfaces / OOP](hw06)
+7. [07-CLI 命令行实用程序开发实战 - Agenda](hw07)
+8. [08-阅读：《Golang web 应用开发》](hw08)
+9. [09-web开发练习](hw09)
+10. [10-阅读：RESTful 架构详解](hw10)
+11. [11-了解：REST API 设计 Github API v3 overview](hw11)
+12. [12-服务构建与前后端分离的开发](hw12)
+13. [13-部署一个云原生本地实验环境](hw13)
+14. [14-无]
+15. [15-应用容器化](hw15)
+16. [16-容器云实验环境](hw16)
+17. [17-(可选)cncf技术栈自由实践博客](hw17)
 
-You can use the [editor on GitHub](https://github.com/hunk954/Service-Computing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 教材与参考书
+- Thomas Erl. Service-Oriented Architecture: Analysis & Design for Services and Microservices, 2nd Edition. Prentice Hall, 2016
+Kevin Hoffman，《Cloud Native Go：构建基于Go和React的云原生Web应用与微服务》，电子工业出版社，2017  
+- Kubernetes中文指南/云原生应用架构实践手册[https://jimmysong.io/kubernetes-handbook/](https://jimmysong.io/kubernetes-handbook/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hunk954/Service-Computing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 课程支持
+- 教师邮箱 panml@mail.sysu.edu.cn
+- 支持QQ群： 851549217
